@@ -18,6 +18,9 @@ SUMMARY OF THE CODE ATTACHED ABOVE.
 1. The code attached above containes a schedular that allows the user to change through modules and for each of the modules individually.
 2. The code above is also written in an object oriented form and each of the skeleton modules mentioned above have been placed in a different class.
 
+![image](https://user-images.githubusercontent.com/105231479/224717454-4b77bb66-0785-41e7-b886-0d3757c5a0da.png)
+
+
 HARDWARE USED IN THIS PROJECT.
 1. 6 led's for the traffic lights controller module with appropriate resistors.
 2. One Seven segment digital display with appropriate resistors.
