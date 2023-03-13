@@ -25,7 +25,7 @@ HARDWARE USED IN THIS PROJECT.
 1. 6 led's for the traffic lights controller module with appropriate resistors.
 2. One Seven segment digital display with appropriate resistors.
 3. One 74HC595 shift register.
-4. One Push button.
+4. Two Push button.
 5. One GY-521 module with MPU6050 accelerometer
 6. Resistors for current limitation.
 
