@@ -1,8 +1,23 @@
-# Concurrent-Processing-and-Bare-Metal-Project
+# <h1>Concurrent-Processing-and-Bare-Metal-Project</h1>
 
-#Purpose of this project is to demonstrate my experience in 
-1. Controlling and running multiple processes on a single microcontroller.
+<h4>Purpose of this project is to demonstrate my experience in</h4> 
+1. Controlling and running multiple processes on a single microcontroller. <br>
 2. Controlling the digital pins of the Arduino microcontroller ATMEGA328P in a bare-metal fashion.
+
+<h4>Why taking a Bare-Metal Approach?</h4> 
+The pinMode(), digitalWrite() and digitalRead() functions are a feature of the Arduino IDE. Microcontrollers that are supported by the Arduino IDE can use these functions. <br>
+
+However there are some microcontrollers that are not supported by the Arduino IDE. Through principles of bare-metal control of I/O ports, the knowledge can be applied to control the I/O ports of any microcontroller. <br>
+
+<h4>Advantages of using bare-metal port-access</h4>
+<ul>
+  <li>
+      Direct register access is faster than using digitalWrite() or digitalRead()
+  </li>
+  <li>
+      With direct register access, multiple outputs can be written simultaneously, or multiple inputs can be read simultaneously.
+  </li>
+</ul>
 
 TASKS INVOLVED IN THIS PROJECT.
 
